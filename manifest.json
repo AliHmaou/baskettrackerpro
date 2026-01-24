@@ -1,0 +1,18 @@
+
+{
+  "name": "BasketTracker Pro",
+  "short_name": "BasketTracker",
+  "description": "Suivi des scores de basketball en temps réel.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#f97316",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCA1MTIgNTEyJz48Y2lyY2xlIGN4PScyNTYnIGN5PScyNTYnIHI9JzI1MCcgZmlsbD0nIzBmMTcyYScvPjxwYXRoIGQ9J00yNTYgNTA2Yy0xMzggMC0yNTAtMTEyLTI1MC0yNTBTMTI0IDYgMjU2IDZzMjUwIDExMiAyNTAgMjUwLTExMiAyNTAtMjUwIDI1MHptMC00ODBDMTI5IDI2IDI2IDEyOSAyNiAyNTZzMTAzIDIzMCAyMzAgMjMwIDIzMC0xMDMgMjMwLTIzMFMzODMgMjYgMjU2IDI2eicgZmlsbD0nI2Y5NzMxNicvPjxwYXRoIGQ9J00yNTYgMjZ2NDYwTTI2IDI1Nmg0NjAnIHN0cm9rZT0nI2Y5NzMxNicgc3Ryb2tlLXdpZHRoPScyMCcgc3Ryb2tlLWxpbmVjYXA9J3JvdW5kJy8+PHBhdGggZD0nTTkzIDkzYzkwIDkwIDkwIDIzNiAwIDMyNk00MTkgOTNjLTkwIDkwLTkwIDIzNiAwIDMyNicgZmlsbD0nbm9uZScgc3Ryb2tlPScjZjk3MzE2JyBzdHJva2Utd2lkdGg9JzIwJyBzdHJva2UtbGluZWNhcD0ncm91bmQnLz48L3N2Zz4=",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

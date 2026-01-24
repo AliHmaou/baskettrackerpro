@@ -1,0 +1,5 @@
+{
+  "name": "BasketTracker Pro",
+  "description": "Une application intuitive pour suivre les statistiques de basketball en temps réel avec une interface radiale dynamique et des analyses par IA.",
+  "requestFramePermissions": []
+}

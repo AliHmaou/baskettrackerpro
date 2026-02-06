@@ -135,6 +135,16 @@ MIT — Utilisation libre, même pour usage commercial.
 
 ---
 
+## 🙏 Crédits
+
+- **[Google AI Studio](https://aistudio.google.com/)** — Générateur d'application initial
+- **[Gemini API](https://ai.google.dev/)** — Intelligence artificielle intégrée
+- **[Vercel](https://vercel.com/)** — Hébergement et déploiement
+
+---
+
 <div align="center">
   <sub>Built with 🏀 by <a href="https://github.com/AliHmaou">AliHmaou</a> & <a href="https://github.com/clawdlehomard">Clawd</a></sub>
+  <br/>
+  <sub>Powered by <a href="https://aistudio.google.com/">Google AI Studio</a></sub>
 </div>
